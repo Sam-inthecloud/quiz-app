@@ -1,8 +1,3 @@
-# Quiz-App
-Sure! Here's a basic README template for your quiz app project:
-
----
-
 # Quiz App
 
 This is a simple quiz application built with Python and SQLite. It allows users to take quizzes, store their answers, and track their scores. The application is designed to be run locally, and it includes a set of automated tests to ensure the functionality of the app.
