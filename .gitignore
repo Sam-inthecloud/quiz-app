@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+quiz.db
+venv/
+dist/
+build/
